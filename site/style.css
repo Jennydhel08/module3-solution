@@ -8,14 +8,14 @@
 	background-color: rgba(0,0,0,0.8);
 }
 
-.brand{
+.navbar_brand{
   font-size: 35px;
   color: white;
   padding-left: 25px;
   font-family: Comic Sans MS, sans-serif;
 }
 
-.brand:hover{
+.navbar_brand:hover{
 	color: purple;
 	text-decoration: none;
 }
